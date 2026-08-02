@@ -4,7 +4,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig(() => {
   return {
-    base: "./PortifolioTech2026/",
+    base: "/PortifolioTech1/",
     plugins: [react()],
     resolve: {
       alias: {
